@@ -4,8 +4,7 @@ This system is based on a concept to enter and manage the prisoners record  This
 						Prison Management System In C++
 
 
-Developed by Hitansh Kadakia ( https://github.com/hitanshkadakia ) and Vansh Damania ( https://github.com/vanshdamania )
-
+Developed by SujanDahal (https://github.com/Sujandl)
 Note : Login Details
 
 	Username = admin
